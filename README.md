@@ -407,9 +407,10 @@ The project focuses on connecting analytical results with business questions rat
 
 ---
 
-## 👤 Author
+## 👤 Author & Contact
 
-**Himanshu Chaudhary**
+**Himanshu Kumar**
+📧 **[shk23223@gamil.com](mailto:shk23223@gamil.com)**
 
 Aspiring Data Analyst
 
