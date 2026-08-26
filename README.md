@@ -253,7 +253,7 @@ The Power BI dashboard contains **six analytical pages**.
 
 Provides a high-level summary of:
 
-* Total Revenue
+* Total Revenue 
 * Total Orders
 * Total Customers
 * Average Order Value
@@ -308,27 +308,27 @@ Summarizes the major business findings and recommendations.
 
 ### Overall Analysis
 
-![Overall Analysis](power_bi/screenshots/overall_analysis.png)
+![Overall Analysis](power bi/overall_analysis.png)
 
 ### Sales Analysis
 
-![Sales Analysis](power_bi/screenshots/sale_analysis.png)
+![Sales Analysis](power bi/sales_analysis.png)
 
 ### Region Analysis
 
-![Region Analysis](power_bi/screenshots/region_analysis.png)
+![Region Analysis](power bi/region_analysis.png)
 
 ### Time Analysis
 
-![Time Analysis](power_bi/screenshots/time_analysis.png)
+![Time Analysis](power bi/time_analysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](power_bi/screenshots/customer_analysis.png)
+![Customer Analysis](power bi/customers_analysis.png)
 
 ### Business Insights
 
-![Business Insights](power_bi/screenshots/insights.png)
+![Business Insights](power bi/insights.png)
 
 ---
 
