@@ -308,27 +308,27 @@ Summarizes the major business findings and recommendations.
 
 ### Overall Analysis
 
-![Overall Analysis](power bi/overall_analysis.png)
+![E-Commerce Sales & Customer Analysis Overall](power bi/overall_analysis.png)
 
 ### Sales Analysis
 
-![Sales Analysis](power bi/sales_analysis.png)
+![E-Commerce Sales & Customer Analysis Sales](power bi/sales_analysis.png)
 
 ### Region Analysis
 
-![Region Analysis](power bi/region_analysis.png)
+![E-Commerce Sales & Customer Analysis Region](power bi/region_analysis.png)
 
 ### Time Analysis
 
-![Time Analysis](power bi/time_analysis.png)
+![E-Commerce Sales & Customer Analysis Time ](power bi/time_analysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](power bi/customers_analysis.png)
+![E-Commerce Sales & Customer Analysis Customer](power bi/customers_analysis.png)
 
 ### Business Insights
 
-![Business Insights](power bi/insights.png)
+![E-Commerce Sales & Customer Analysis Insight](power bi/insights.png)
 
 ---
 
