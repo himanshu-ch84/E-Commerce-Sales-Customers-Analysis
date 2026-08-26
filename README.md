@@ -55,7 +55,7 @@ E-Commerce-Sales-Customer-Analysis/
 │       └── insights.png
 │
 ├── report/
-│   └── ecommerce sales and customer analysis.pdf
+│   └── ecommerce_sales_customer_analysis.pdf
 │
 └── README.md
 ```
